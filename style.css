@@ -15,3 +15,7 @@
     flex-wrap: wrap;
     overflow: hidden;
 }
+.container span{
+    position: relative;
+    display: flex;
+  

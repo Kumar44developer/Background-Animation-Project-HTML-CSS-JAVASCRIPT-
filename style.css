@@ -37,6 +37,9 @@
     height: 100%;
 }
 
+.container span:hover::before{
+    transition: 0s;
+    opacity: 1;
 
 
 

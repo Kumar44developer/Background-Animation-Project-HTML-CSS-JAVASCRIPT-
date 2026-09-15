@@ -29,9 +29,9 @@ An interactive, grid-based visual effect built with pure HTML, CSS, and JavaScri
 
 ```
 Background-Animation-Project-HTML-CSS-JAVASCRIPT-/
-├── index.html       # Entry markup mounting the container
-├── style.css        # Layout, tile sizing, background image, and hover effects
-└── index.js         # Loop generating 2,000 span grid elements
+├── index.html       
+├── style.css        
+└── index.js         
 ```
 
 ---
